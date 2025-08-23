@@ -8,4 +8,3 @@ public class relation {
         System.out.println(result);
     }
 }
-a
