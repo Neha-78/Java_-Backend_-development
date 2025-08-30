@@ -1,0 +1,17 @@
+public class forrr {
+    public static void main(String[] args) {
+        for(int i=1;i<=5;i++)
+        {
+            System.out.println("DAY " + i);
+
+            for(int j=1;j<=9;j++){
+                System.out.println("   "+(j+8));
+            }
+        }
+
+        
+        
+    }
+    
+}
+// it is also an example of enhanced for loop or for each loop
